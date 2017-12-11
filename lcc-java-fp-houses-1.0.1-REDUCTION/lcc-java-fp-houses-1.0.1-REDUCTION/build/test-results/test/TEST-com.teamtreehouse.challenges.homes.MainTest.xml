@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.teamtreehouse.challenges.homes.MainTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-12-11T19:04:59" hostname="PatrickLaflin" time="0.238">
+  <properties/>
+  <testcase name="usesMaxToGatherHousingRecord" classname="com.teamtreehouse.challenges.homes.MainTest" time="0.205"/>
+  <testcase name="maximumHousingRecordReturned" classname="com.teamtreehouse.challenges.homes.MainTest" time="0.027"/>
+  <testcase name="usesMapToIntToGetMinimum" classname="com.teamtreehouse.challenges.homes.MainTest" time="0.002"/>
+  <testcase name="minimumHomeIndexReturned" classname="com.teamtreehouse.challenges.homes.MainTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
