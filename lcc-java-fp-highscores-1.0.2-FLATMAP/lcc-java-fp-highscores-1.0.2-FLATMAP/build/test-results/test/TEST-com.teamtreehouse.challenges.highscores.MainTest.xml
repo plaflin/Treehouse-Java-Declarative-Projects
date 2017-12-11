@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.teamtreehouse.challenges.highscores.MainTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2017-12-11T18:36:31" hostname="PatrickLaflin" time="0.273">
+  <properties/>
+  <testcase name="properPlayersReturned" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.222"/>
+  <testcase name="streamIsUsed" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.014"/>
+  <testcase name="wordCountIsCollectedUsingGrouping" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.009"/>
+  <testcase name="mapIsUsedWithMethodReference" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.003"/>
+  <testcase name="filterIsCalled" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.002"/>
+  <testcase name="wordCountsUseFlatMap" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.002"/>
+  <testcase name="appropriateBurgerTimeAppears" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.003"/>
+  <testcase name="collectedOnlyNESGames" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.002"/>
+  <testcase name="onlyBurgerTime" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.001"/>
+  <testcase name="limitsCollectedResults" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.001"/>
+  <testcase name="collectedTheFirstThree" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.001"/>
+  <testcase name="wordCountReturnsCorrectData" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.01"/>
+  <testcase name="playersNeedToBeFilteredByPoints" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.001"/>
+  <testcase name="onlyHighScores" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.001"/>
+  <testcase name="playersNeedToBeLimitedTo5" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.0"/>
+  <system-out><![CDATA[Score{game='Burger Time', measuringUnit='', amountAsString='20,001', player='VALID_1', platform=''}
+Score{game='Burger Time', measuringUnit='', amountAsString='20,001', player='VALID_1', platform=''}
+Score{game='Burger Time', measuringUnit='', amountAsString='20,001', player='VALID_1', platform=''}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
