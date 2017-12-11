@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.teamtreehouse.challenges.homes.MainTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2017-12-11T19:42:38" hostname="PatrickLaflin" time="0.284">
+  <properties/>
+  <testcase name="stateCodesUseDistinctMethod" classname="com.teamtreehouse.challenges.homes.MainTest" time="0.258"/>
+  <testcase name="menuIsInclusive" classname="com.teamtreehouse.challenges.homes.MainTest" time="0.008"/>
+  <testcase name="usesMaxToGatherHousingRecord" classname="com.teamtreehouse.challenges.homes.MainTest" time="0.001"/>
+  <testcase name="stateCodesIgnoreBlanks" classname="com.teamtreehouse.challenges.homes.MainTest" time="0.002"/>
+  <testcase name="maximumHousingRecordReturned" classname="com.teamtreehouse.challenges.homes.MainTest" time="0.002"/>
+  <testcase name="usesMapToIntToGetMinimum" classname="com.teamtreehouse.challenges.homes.MainTest" time="0.001"/>
+  <testcase name="aRangeIsUsed" classname="com.teamtreehouse.challenges.homes.MainTest" time="0.001"/>
+  <testcase name="stateCodesAreSorted" classname="com.teamtreehouse.challenges.homes.MainTest" time="0.004"/>
+  <testcase name="minimumHomeIndexReturned" classname="com.teamtreehouse.challenges.homes.MainTest" time="0.002"/>
+  <testcase name="menuStartsAt1" classname="com.teamtreehouse.challenges.homes.MainTest" time="0.001"/>
+  <system-out><![CDATA[1. HI
+2. MOM
+1. HI
+2. MOM
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
