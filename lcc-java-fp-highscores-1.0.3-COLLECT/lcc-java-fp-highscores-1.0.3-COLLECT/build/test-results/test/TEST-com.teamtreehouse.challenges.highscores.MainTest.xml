@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.teamtreehouse.challenges.highscores.MainTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-12-11T17:30:27" hostname="PatrickLaflin" time="0.222">
+  <properties/>
+  <testcase name="streamIsUsed" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.203"/>
+  <testcase name="filterIsCalled" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.002"/>
+  <testcase name="appropriateBurgerTimeAppears" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.006"/>
+  <testcase name="collectedOnlyNESGames" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.002"/>
+  <testcase name="onlyBurgerTime" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.001"/>
+  <testcase name="limitsCollectedResults" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.0"/>
+  <testcase name="collectedTheFirstThree" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.003"/>
+  <testcase name="onlyHighScores" classname="com.teamtreehouse.challenges.highscores.MainTest" time="0.001"/>
+  <system-out><![CDATA[Score{game='Burger Time', measuringUnit='', amountAsString='20,001', player='VALID_1', platform=''}
+Score{game='Burger Time', measuringUnit='', amountAsString='20,001', player='VALID_1', platform=''}
+Score{game='Burger Time', measuringUnit='', amountAsString='20,001', player='VALID_1', platform=''}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
